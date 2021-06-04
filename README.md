@@ -1,4 +1,4 @@
-![cover_photo](./images/prem_mosaic4.PNG)
+![cover_photo](./reports/images/prem_mosaic4.PNG)
 
 # Younger: Predicting Age with Deep Learning<p>
 By: Prem Ananda | prem@prem5.com <p>
