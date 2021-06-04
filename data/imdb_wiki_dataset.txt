@@ -1,0 +1,27 @@
+FULL DATASET & DOCUMENTATION
+
+IMDB-WIKI – 500k+ face images with age and gender labels
+Rasmus Rothe, Radu Timofte, Luc Van Gool
+
+@article{Rothe-IJCV-2018,
+  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
+  title = {Deep expectation of real and apparent age from a single image without facial landmarks},
+  journal = {International Journal of Computer Vision},
+  volume={126},
+  number={2-4},
+  pages={144--157},
+  year={2018},
+  publisher={Springer}
+}
+
+@InProceedings{Rothe-ICCVW-2015,
+  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
+  title = {DEX: Deep EXpectation of apparent age from a single image},
+  booktitle = {IEEE International Conference on Computer Vision Workshops (ICCVW)},
+  year = {2015},
+  month = {December},
+}
+
+
+
+LINK: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/ 
