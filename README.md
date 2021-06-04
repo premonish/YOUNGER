@@ -1,8 +1,8 @@
-![cover_photo](./images/prem_mosaic4.PNG)
+![cover_photo](./reports/images/prem_mosaic4.PNG)
 
 # Younger: Predicting Age with Deep Learning<p>
 By: Prem Ananda | prem@prem5.com <p>
-## [Code](https://github.com/premonish/YOUNGER/tree/main/notebooks) / [Documentation](https://github.com/premonish/YOUNGER/blob/main/reports/younger_capstone_project_report.pdf) / [Presentation](https://github.com/premonish/YOUNGER/blob/main/reports/Capstone_Presentation_Prem_Ananda.pdf)
+## [Code](https://github.com/premonish/YOUNGER/tree/main/notebooks) / [Documentation](https://github.com/premonish/YOUNGER/blob/main/reports/Capstone_Report_Younger_20Prem_Ananda.pdf) / [Presentation](https://github.com/premonish/YOUNGER/blob/main/reports/Capstone_Presentation_Younger_20Prem_Ananda.pdf)
 
 
 
