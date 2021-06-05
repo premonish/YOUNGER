@@ -14,7 +14,7 @@ By: Prem Ananda | prem@prem5.com <p>
 
 * **Results**: Using a customized Convolutional Neural Network (CNN) and Transfer Learning, we were able to estimate a subject’s age from a photograph with an average error of about 7 years. 			
 		
-* **Recommendation**s: We can move forward by creating a beta app with the disclaimer that the system is still being optimized. We recommend collecting more representative data, and spending more time fine-tuning the model. The system can be improved significantly with more high-quality labeled data and more tuning. We expect that we can get an estimated error down to about 5 years on average.
+* **Recommendations**: We can move forward by creating a Beta app with the disclaimer that the system is still being optimized. We recommend collecting more representative data, and spending more time fine-tuning the model. The system can be improved significantly with more high-quality labeled data and more tuning. We expect that we can get an estimated error down to about 5 years on average.
 
 * **The Code**:
 The project was developed in Python using appropriate libraries under Google Colab Pro to take advantage of their fast GPU-based architecture. TensorFlow and Keras were used for preprocessing and implementing the Convolutional Neural Network (CNN).
